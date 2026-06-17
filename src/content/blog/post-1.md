@@ -1,9 +1,9 @@
 ---
 title: Fullo bukan Folio
-excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
-publishDate: 'Aug 5 2023'
+excerpt: Cerita ini berdasarkan kisah nyata dan pengalaman pribadi penulis.
+publishDate: '18 Juni 2026'
 tags:
-  - Guide
+  - Cerita
 seo:
   image:
     src: '../../assets/images/post-1.jpg'
@@ -12,7 +12,7 @@ seo:
 
 ![A person standing at the window](../../assets/images/post-1.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+**Note:** Cerita ini berdasarkan kisah nyata dan pengalaman pribadi penulis.
 
 Pagi itu Matahari sedikit memancarkan teriknya ketika aku lihat jam dinding menunjukkan pukul 9 pagi. Karena itu hari minggu aku sedikit bermalas malasan. Seperti biasa aku membuka hari dengan santai terlebih dahulu menyeruput kopi, waktu itu masih SMA, walaupun sudah merokok tapi diam-diam hehehe, jadi saat itu belum ada rokok.
 
