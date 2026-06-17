@@ -1,10 +1,10 @@
 ---
-title: Building an Impressive Front-End Developer Portfolio
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
-publishDate: 'October 5 2023'
+title: Secangkir Kopi dan Sebatang Rokok
+excerpt: Pagi itu kulihat jam dinding dikamarku menunjukkan pukul 06.13. Aku bangun dari tidurku yang semalaman begadang sampai pukul 2 pagi.Dengan perasaan malas aku bangun dan membereskan tempat tidurku yang berantakan. Kemudian ku buka jendela kamar dan kulihat langit masih gelap yang berarti mendung menandakan akan hujan dihari itu. Yah walaupun aku pernah mendengar sebuah kalimat yang mengatakan mendung tak berarti hujan.
+publishDate: '17 Juni 2026'
 tags:
-  - Web
-  - Web development
+  - Cerita
+  - Narasi
 seo:
   image:
     src: '../../assets/images/post-2.jpg'
@@ -13,58 +13,26 @@ seo:
 
 ![Half open laptop on a desk](../../assets/images/post-2.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+Pagi itu kulihat jam dinding dikamarku menunjukkan pukul 06.13. Aku bangun dari tidurku yang semalaman begadang sampai pukul 2 pagi.
 
-In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career. Your portfolio is your digital business card, and it should be a reflection of your talent, creativity, and expertise. In this post, we'll walk you through the steps to create an impressive front-end developer portfolio that will help you stand out in the crowd.
+Dengan perasaan malas aku bangun dan membereskan tempat tidurku yang berantakan. Kemudian ku buka jendela kamar dan kulihat langit masih gelap yang berarti mendung menandakan akan hujan dihari itu. Yah walaupun aku pernah mendengar sebuah kalimat yang mengatakan mendung tak berarti hujan.
 
-## 1. Showcase a Diverse Range of Projects
+Tak berselang lama aku memperhatikan langit dari jendela kamarku, air dari langit mulai turun perlahan lahan ditemani oleh angin yang terasa agak dingin untuk pagi itu. Takut kamarku basah, Kemudian aku tutup kembali jendela kamarku karena air hujan bisa masuk kedalam jika tertiup angin.
 
-Your portfolio should be a testament to your versatility. Include a variety of projects that demonstrate your skills in different areas of front-end development. Consider including projects like:
+Setelah itu aku pergi ke dapur mengambil sebuah cangkir dan sesachet kopi untuk mengawali hari. Didapur kulihat ibuku sedang menggoreng pisang yang dibalut gandum. Tanpa menghiraukan ibuku yang sedang memasak aku membuat secangkir kopi hitam panas. Lalu Perlahan lahan aku berjalan ke ruang tamu dengan membawa secangkir kopi. Disitu aku duduk termenung memandang keluar jendela ruangan melihat pemandangan hujan pagi itu.
 
-- **Responsive Websites:** Showcase your ability to create websites that adapt seamlessly to various screen sizes and devices.
+Jam dinding menunjukkan pukul 06.21, dari dapur ibuku membawakanku sepiring pisang goreng hangat.
 
-- **Interactive Web Applications:** Feature web applications that engage users with dynamic features and functionalities.
+“Iki le pisang goreng e, mumpung iseh anget”, kata ibuku.
 
-- **E-commerce Websites:** If you've worked on e-commerce sites, include them to demonstrate your expertise in handling complex web development tasks.
+“Nggih bu”, jawabku singkat.
 
-- **Open Source Contributions:** Highlight your involvement in open-source projects or contributions to online coding communities.
+Walaupun sudah ada secangkir kopi dan sepiring pisang goreng hangat aku merasa ada uang kurang pagi itu. “ oh iya rokokku”, ucapku dalam hati.
 
-## 2. Highlight Your Coding Skills
+Aku kembali ke kamar dan mengambil rokokku dan kembali lagi ke ruang tamu. Aku minum sedikit kopi yang masih panas tadi. Kemudian aku ambil sebatang rokok dan kunyalakan.
 
-Your portfolio should provide a clear view of your coding proficiency. Consider the following:
+“Ah nikmat”, batinku.
 
-- **Clean and Organized Code:** Present your code in a clean and well-organized manner. Use proper indentation, comments, and coding standards.
+Sungguh pagi hari yang sangat nikmat ditemani secangkir kopi panas dan rokok juga pisang goreng, ditambah pagi itu hujan dan udara masih dingin. Hmm nikmat sekali pagi itu. Secangkir kopi dan sebatang rokok memang satu kesatuan yang tidak bisa dipisahkan.
 
-- **Use of Version Control:** Showcase your use of version control systems like Git and GitHub to demonstrate your collaboration and code management skills.
-
-- **Code Samples:** Include snippets of code from your projects to give visitors an insight into your coding style and problem-solving abilities.
-
-## 3. Emphasize Responsive Design
-
-As a front-end developer, responsive design is paramount. Ensure that your portfolio itself is a shining example of responsive design. It should look and function flawlessly on a variety of devices, including desktops, tablets, and smartphones.
-
-## 4. User Experience (UX) Matters
-
-Front-end development is not just about writing code; it's about creating a great user experience. Explain your thought process behind the user interface (UI) and UX decisions you made in your projects. Discuss how you optimized performance and accessibility.
-
-## 5. Document Your Projects
-
-Accompany each project with a detailed description. Explain the project's goals, your role in it, the technologies and tools you used, and any challenges you overcame. This documentation provides context and depth to your work.
-
-## 6. Regularly Update Your Portfolio
-
-A stagnant portfolio can give the impression of inactivity or lack of progress. Regularly update your portfolio with your latest work and projects. Remove outdated or less impressive work to keep your portfolio relevant and impactful.
-
-## 7. Test and Optimize Load Times
-
-Slow-loading websites can turn visitors away. Ensure your portfolio loads quickly by optimizing images and using proper techniques to minimize load times.
-
-## 8. Seek Feedback
-
-Before finalizing your portfolio, seek feedback from peers, mentors, or online communities. Constructive criticism can help you refine your portfolio and make it even more impressive.
-
-## 9. Personalize Your Portfolio
-
-Your portfolio is not just about your work; it's also about you. Add a personal touch by including an **"About Me"** section that tells your story, your passions, and what makes you unique as a front-end developer.
-
-Remember, your front-end developer portfolio is an ongoing project. Keep refining it, stay up-to-date with the latest trends, and let it evolve as your skills and experience grow. An impressive portfolio not only serves as a testament to your abilities but also opens doors to exciting opportunities in the world of front-end development.
+Dan seperti itulah, setiap pagi sebelum beraktivitas selalu kuawali dengan secangkir kopi dan sebatang rokok. Pisang goreng hanyalah tambahan di pagi itu saat hujan turun. 
