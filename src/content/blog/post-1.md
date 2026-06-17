@@ -1,6 +1,6 @@
 ---
 title: Fullo bukan Folio
-excerpt: Cerita ini berdasarkan kisah nyata dan pengalaman pribadi penulis.
+excerpt: Pagi itu Matahari sedikit memancarkan teriknya ketika aku lihat jam dinding menunjukkan pukul 9 pagi. Karena itu hari minggu aku sedikit bermalas malasan. Seperti biasa aku membuka hari dengan santai terlebih dahulu menyeruput kopi, waktu itu masih SMA, walaupun sudah merokok tapi diam-diam hehehe, jadi saat itu belum ada rokok.
 publishDate: '18 Juni 2026'
 tags:
   - Cerita
