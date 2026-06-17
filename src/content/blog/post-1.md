@@ -1,5 +1,5 @@
 ---
-title: The Advantages & Disadvantages of Working from Home
+title: Fullo bukan Folio
 excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
 publishDate: 'Aug 5 2023'
 tags:
@@ -14,34 +14,36 @@ seo:
 
 **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
 
-In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes. While this shift has brought about many benefits, it has also introduced its fair share of challenges. Let's explore the advantages and disadvantages of working from home.
+Pagi itu Matahari sedikit memancarkan teriknya ketika aku lihat jam dinding menunjukkan pukul 9 pagi. Karena itu hari minggu aku sedikit bermalas malasan. Seperti biasa aku membuka hari dengan santai terlebih dahulu menyeruput kopi, waktu itu masih SMA, walaupun sudah merokok tapi diam-diam hehehe, jadi saat itu belum ada rokok.
 
-## Advantages of Working from Home
+Ketika sedang asik menikmati secangkir kopi sambil membaca novel Sherlock Holmes, kulihat ibuku hendak pergi.
 
-1. **Flexibility:** One of the most significant advantages of remote work is the flexibility it offers. Employees can often set their own hours, which can be particularly beneficial for those with family responsibilities or other commitments.
+“Mau pergi kemana bu?”, tanyaku
 
-2. **Reduced Commute:** Eliminating the daily commute not only saves time but also reduces stress and expenses associated with transportation. This can lead to better mental health and increased job satisfaction.
+“Mau ke purnama (nama toko swalayan), beli sabun, gula, sama teh”, jawab ibuku.
 
-3. **Cost Savings:** Working from home can result in significant cost savings. Employees can save money on transportation, work attire, and daily meals, which can have a positive impact on their overall financial well-being.
+“Titip fullo bu”, pintaku singkat
 
-4. **Increased Productivity:** Many people find that they are more productive when working from home. The absence of office distractions and the ability to create a personalized work environment can lead to improved focus and efficiency.
+“Ya nanti tak beliin”, jawab ibuku singkat.
 
-5. **Work-Life Balance:** Remote work allows for better work-life balance. Employees can better manage their personal and professional lives, leading to reduced burnout and increased job satisfaction.
+Kemudian ibuku berlalu pergi.
 
-> Your ability to discipline yourself to set clear goals and then work toward them every day will do more to guarantee your success than any other single factor.
+Sekitar setengah jam berlalu dan menunggu ibuku, aku masih asik meminum kopi hitam yang sudah mulai dingin. Dan tak berselang lama ibuku pulang.
 
-## Disadvantages of Working from Home
+Kemudian kuhampiri ibuku, “fullonya mana bu?”, tanyaku
 
-1. **Isolation:** Remote work can be lonely. The absence of coworkers and face-to-face interaction can lead to feelings of isolation and loneliness, which may negatively impact mental health.
+“Ibu taruh di meja itu,” kata ibu sambil menunjukkan letaknya.
 
-2. **Difficulty in Communication:** Effective communication can be a challenge when working remotely. Misunderstandings, lack of clear communication, and delayed responses can hinder teamwork and collaboration.
+Bergegas aku menghampiri meja yang ditunjuk ibu. Lalu aku buka dan hanya kutemukan beberapa lembar kertas bergaris.
 
-3. **Work-Life Boundaries:** While remote work can improve work-life balance, it can also blur the lines between work and personal life. It can be challenging to establish clear boundaries, leading to overwork and burnout.
+“Bu, kok gak ada”, kataku sedikit berteriak. 
 
-4. **Technology Issues:** Technical problems, such as internet connectivity issues or software glitches, can disrupt work and cause frustration.
+Kemudian ibu menghampiriku sambil berkata “ini lho, coba dibuka”. 
 
-5. **Distractions:** Working from home can be riddled with distractions, ranging from household chores to noisy neighbors. Maintaining focus can be a constant struggle for some.
+“Isinya cuma kertas bu”, jawabku. 
 
-6. **Career Growth:** Some employees may feel that working remotely limits their opportunities for career advancement, as they may have less visibility within the organization.
+“Lha iya betul to le”, timpal ibu. 
 
-While it offers flexibility, cost savings, and improved work-life balance, it can also lead to isolation, communication challenges, and distractions. The key to successful remote work lies in finding a balance that suits individual preferences and addressing potential drawbacks through effective communication, time management, and self-discipline. As remote work continues to evolve, understanding and adapting to these advantages and disadvantages will be crucial for both employees and employers.
+“Kan aku pesennya fullo bu, bukan folio. Itu lho makanan fullo kayak stik itu”, jawabku sedikit menjelaskan.
+
+“Owalah ngertine ibu folio mau le, yo uwes nanti ibu balik belikan lagi”, jawab ibu sambil tertawa.
