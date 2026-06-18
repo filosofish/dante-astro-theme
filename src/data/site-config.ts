@@ -52,7 +52,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     socialLinks: [
-        
+
         {
             text: 'Instagram',
             href: 'https://instagram.com/'
@@ -64,7 +64,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "I am webillian adhi, a village official who serves as the head of the hamlet, as well as an online motorbike taxi driver, and also a blogger. through this blog I want to share stories, experiences, stories, and of course writing. that's all there is nothing else.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
