@@ -5,10 +5,10 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Terima kasih telah menghubungi saya! Baik Anda memiliki pertanyaan, saran, atau hanya ingin berbagi pendapat, syukur-syukur mau mengirimi saya uang, saya siap menerima ehh... maksud saya siap mendengarkan. Silakan hubungi saya melalui salah satu metode di bawah ini:
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+_Email_: Silakan kirim email kepada saya di [filosofish.com@gmail.com](mailto:filosofish.com@gmail.com) , dan saya akan berusaha sebaik mungkin untuk membalas sesegera mungkin.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+_Media Sosial_: Terhubunglah dengan saya di media sosial juga. Temukan saya di [Twitter](https://twitter.com/webillian) atau [Instagram](https://instagram.com/webillian).
+
+
