@@ -1,7 +1,7 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Memulai Kembali'
+description: Setelah sekian lama lumayan vakum dari aktifitas blogging, akhirnya kuputuskan kembali untuk membangun sebuah blog lagi. Dengan nama domain baru, platform baru, dan tujuan baru tentu saja.
+publishDate: '12 Desember 2025'
 seo:
   image:
     src: '../../assets/images/project-1.jpg'
@@ -12,55 +12,30 @@ seo:
 
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+Setelah sekian lama lumayan vakum dari aktifitas blogging, akhirnya kuputuskan kembali untuk membangun sebuah blog lagi. Dengan nama domain baru, platform baru, dan tujuan baru tentu saja.
 
-## Objectives
+Dulu sekian tahun menekuni dunia blog, tidak ada satupun blog yang pernah saya kelola bertahan lama. semua selalu berakhir hilang. Entah itu akhirnya aku jual maupun terbengkalai.
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+Kenapa?
 
-## Features
+Karena saat itu aku kehilangan esensi untuk menulis. Padahal aku ingin memiliki kebebasan untuk menulis yang tidak terikat dengan apapun. aku tidak mau menghabiskan waktu hanya untuk riset keyword, menulis struktur artikel yang sesuai SEO, memperbaiki performa ataupun tampilan, aku tidak mau. aku hanya mau menulis.
 
-1. **EcoScore and Challenges:**
+**Perjalanan Ngeblog**
+Perjalanan awal ngeblog saya dimulai dari tahun 2019 yang waktu menggunakan platform blogger yang telah di custom domain. Beberapa bulan mulai ngeblog saya mulai tau bahwa bisa cari cuan lewat blog salah satunya dengan adsense.
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+Mulai lah mendaftar adsense dan diterima. Awal mula bahagia karena halu untuk mendapatkan uang dari blog ternyata terhalang realita yang bernama trafik. Sehingga saya mencoba mencari cara bagaimana meningkatkan trafik blog.
 
-2. **Personalized Eco-Goals:**
+**Frustasi**
+Memikirkan trafik ternyata bisa membuat gila. Perlu banyak hal yang dipelajari seperti SEO, riset keyword, struktur penulisan, performa blog, backlink, dan banyak lagi.
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+Saya paling malas dengan segala keribetan itu. hingga akhirnya aku putuskan menjual saja blog pertama yang telah aku bangun selama beberapa bulan.
 
-3. **Green Rewards Marketplace:**
+**Mengulangi Hal yang Sama**
+Terperosok di lubang yang sama sepertinya bukan lagi istilah, tapi sudah jadi nyata. Mencoba lagi membangun blog pada akhirnya tetap sama berakhir dijual bahkan sampai ada yang terbengkalai hingga akhirnya hilang dan domain sudah diambil orang lain.
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+Ada perasaan _getun_ sebenarnya, tapi mau bagaimana lagi. Bangun lagi hilang lagi.
 
-4. **Community Hub:**
+**Memulai Kembali**
+Beberapa kali berpikir, aku kuputuskan untuk memulai kembali membangun blog. Namun dengan niat dan tujuan berbeda, yaitu prinsip awal kebebasan menulis yang tidak terikat dengan _anjing_ bernama SEO, trafik, backlink, struktur penulisan, niche, dan _tetek bengek_ lainnya.
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
-
-## Technology Stack
-
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
-
-## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Aku tidak peduli dengan trafik, aku juga tidak peduli tulisanku ada yang membaca atau tidak. aku hanya ingin menulis, hanya menulis. itu saja titik, tidak ada yang lain.
