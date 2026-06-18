@@ -61,7 +61,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I am **Webillian Adhi**, a village official who serves as the head of the hamlet, as well as an online motorbike taxi driver, and also a blogger. through this blog I want to share stories, experiences, and of course writing. that's all there is nothing else.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "I am **Webillian Adhi**, a village official who serves as the head of the hamlet, as well as an online motorbike taxi driver, and also a blogger. through this blog I want to share stories, experiences, and of course writing. that's all there is nothing else.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
