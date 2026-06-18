@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'Filosofish',
-    subtitle: 'Minimal Astro.js theme',
+    subtitle: 'Sebuah catatan, journal diary, narasi, ide, dan cerita tentang perjalanan',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
