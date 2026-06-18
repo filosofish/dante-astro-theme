@@ -52,10 +52,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
+        
         {
             text: 'Instagram',
             href: 'https://instagram.com/'
