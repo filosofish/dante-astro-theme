@@ -1,7 +1,7 @@
 ---
 title: 'Memulai Kembali'
 description: Setelah sekian lama lumayan vakum dari aktifitas blogging, akhirnya kuputuskan kembali untuk membangun sebuah blog lagi. Dengan nama domain baru, platform baru, dan tujuan baru tentu saja.
-publishDate: '12 Desember 2025'
+publishDate: 'March 11 2025'
 seo:
   image:
     src: '../../assets/images/project-1.jpg'
